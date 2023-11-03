@@ -20,3 +20,14 @@ body {
   color: rgb(var(--foreground-rgb));
   
 }
+[data-theme="cupcake"] .avatar.online:before {
+  
+  top: 70%;
+  
+}
+
+navbar{
+  height: 143px;
+ 
+
+}
