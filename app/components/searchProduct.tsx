@@ -1,5 +1,4 @@
 import React from 'react'
-import Starred from '../../public/starred.svg'
 import Image from 'next/image'
 
 function searchProduct() {

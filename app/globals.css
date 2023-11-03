@@ -20,9 +20,11 @@ body {
   color: rgb(var(--foreground-rgb));
   
 }
-[data-theme="cupcake"] .avatar.online:before {
+
+[data-theme="light"] .avatar.online:before {
   
-  top: 70%;
+  top: 75%;
+
   
 }
 
